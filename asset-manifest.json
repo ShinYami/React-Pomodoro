@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Pomodoro/static/css/main.d8e2a4f4.chunk.css",
+    "main.js": "/React-Pomodoro/static/js/main.c532e0f9.chunk.js",
+    "main.js.map": "/React-Pomodoro/static/js/main.c532e0f9.chunk.js.map",
+    "runtime-main.js": "/React-Pomodoro/static/js/runtime-main.510e5a9e.js",
+    "runtime-main.js.map": "/React-Pomodoro/static/js/runtime-main.510e5a9e.js.map",
+    "static/js/2.958bbd7c.chunk.js": "/React-Pomodoro/static/js/2.958bbd7c.chunk.js",
+    "static/js/2.958bbd7c.chunk.js.map": "/React-Pomodoro/static/js/2.958bbd7c.chunk.js.map",
+    "index.html": "/React-Pomodoro/index.html",
+    "static/css/main.d8e2a4f4.chunk.css.map": "/React-Pomodoro/static/css/main.d8e2a4f4.chunk.css.map",
+    "static/js/2.958bbd7c.chunk.js.LICENSE.txt": "/React-Pomodoro/static/js/2.958bbd7c.chunk.js.LICENSE.txt",
+    "static/media/pause.f8c47a1a.svg": "/React-Pomodoro/static/media/pause.f8c47a1a.svg",
+    "static/media/play.b23df41a.svg": "/React-Pomodoro/static/media/play.b23df41a.svg",
+    "static/media/reset.adefad1d.svg": "/React-Pomodoro/static/media/reset.adefad1d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.510e5a9e.js",
+    "static/js/2.958bbd7c.chunk.js",
+    "static/css/main.d8e2a4f4.chunk.css",
+    "static/js/main.c532e0f9.chunk.js"
+  ]
+}
